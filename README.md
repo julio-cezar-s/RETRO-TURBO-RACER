@@ -37,7 +37,7 @@ Os principais objetivos do projeto são:
 3. Permitir que jogadores de diferentes países utilizem o jogo.
 4. Manter uma arquitetura modular e de fácil manutenção.
 5. Evoluir o jogo sem comprometer funcionalidades já implementadas.
-6. Preparar o projeto para publicação e monetização.
+6. Preparar o projeto para publicação.
 
 ## 🕹️ 3. Como funciona o jogo
 
