@@ -512,43 +512,7 @@ Melhoria planejada:
 - Melhor adaptação a telas ultrawide.
 - Preservação da proporção dos elementos.
 
-## 💰 18. Monetização e modelo de negócio
-
-O modelo de monetização planejado prioriza anúncios recompensados e voluntários.
-
-A intenção é permitir que o jogador escolha assistir a um anúncio em troca de uma recompensa dentro do jogo.
-
-### Recompensas planejadas
-
-**Continuar a partida:**
-
-- Opção de assistir a um anúncio após Game Over.
-- Concessão de uma proteção temporária para continuar.
-- Limite de uma utilização por partida.
-
-**Turbo extra:**
-
-- Opção de assistir a um anúncio antes da corrida.
-- Concessão de 30 unidades adicionais de turbo.
-- Limite de uma utilização por partida.
-
-### Princípios de monetização
-
-- Não interromper corridas com anúncios obrigatórios.
-- Não prejudicar quem prefere jogar sem anúncios.
-- Utilizar anúncios de teste durante o desenvolvimento.
-- Conceder recompensas somente após confirmação de conclusão do anúncio.
-- Manter o jogo funcional quando não houver anúncios disponíveis.
-
-### Plataformas planejadas
-
-- Android: integração futura com Google AdMob.
-- Navegador: estratégia de monetização web independente.
-- iOS: possibilidade de expansão futura.
-
-**Situação:** o modelo está planejado, mas não deve ser considerado implementado ou publicado sem a integração e os testes correspondentes.
-
-## 🚀 19. Roadmap
+## 🚀 18. Roadmap
 
 | Etapa | Objetivo | Situação |
 |---|---|---|
@@ -560,10 +524,9 @@ A intenção é permitir que o jogador escolha assistir a um anúncio em troca d
 | 3.6 | Melhor aproveitamento da tela | Planejada |
 | Futuras | Refinamento visual e desempenho | Planejado |
 | Futuras | Preparação para Android | Planejado |
-| Futuras | Anúncios recompensados | Planejado |
 | Futuras | Publicação e divulgação | Planejado |
 
-## 🔐 20. Privacidade e dados
+## 🔐 19. Privacidade e dados
 
 O jogo utiliza armazenamento local para guardar determinadas preferências.
 
@@ -578,7 +541,7 @@ Antes de uma publicação comercial, deverão ser avaliados e documentados:
 
 A implementação de serviços externos deverá ser documentada separadamente.
 
-## 📦 21. Distribuição e publicação
+## 📦 20. Distribuição e publicação
 
 Os formatos de distribuição considerados para o projeto são:
 
