@@ -24,7 +24,7 @@ O projeto busca combinar:
 - Experiência em diferentes idiomas.
 - Sistema de pontuação e recordes.
 - Possibilidade de expansão para plataformas móveis.
-- Estrutura preparada para futuras funcionalidades e monetização.
+- Estrutura preparada para futuras funcionalidades.
 
 O jogo foi pensado para funcionar principalmente em dispositivos móveis na orientação horizontal, mas também pode ser executado em notebooks e computadores.
 
