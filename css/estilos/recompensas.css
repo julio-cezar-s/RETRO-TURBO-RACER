@@ -1,0 +1,40 @@
+/* css/estilos/recompensas.css — botões de recompensa e tela do anúncio simulado (3.8.0) */
+
+.recompensa-area {
+  width: 100%;
+  margin-top: 8px;
+}
+
+.recompensa-area:empty {
+  display: none;
+}
+
+/* Contorno dourado: destaca que é opcional e diferente dos botões principais */
+.menu-btn.recompensa-btn {
+  border-color: #ffc84a;
+  color: #ffe9a8;
+  font-size: 0.8rem;
+  min-height: 38px;
+  padding: 8px 12px;
+}
+
+.menu-btn.recompensa-btn:disabled {
+  opacity: 0.55;
+  cursor: default;
+}
+
+.recompensa-msg {
+  margin: 6px 0 0;
+  font-size: 0.78rem;
+  line-height: 1.25;
+  color: #ffe9a8;
+}
+
+#adScreen {
+  z-index: 70;       /* acima de qualquer outra tela: nada por baixo recebe toque durante o anúncio */
+}
+
+#adCountdown {
+  font-size: 1.1rem;
+  margin: 10px 0 16px;
+}
